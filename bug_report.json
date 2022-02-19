@@ -1,20 +1,18 @@
 {
-
-        "Summary": "Loggin Page. The button 'Sigh in' not responding after clicking on it",
-
-        "STR": {
-                "step_1": "Open the login page",
-                "step_2": "Enter username and password",
-                "step_3": "Click on the button 'Sigh in'"
-        },
-
-        "Result": "The button 'Sigh in' not responding after clicking on it",
-
-        "Expected_result": "After clicking the button, the user page opens",
-
-        "Severity": "Major",
-
-        "Priority": "High"
-
+    "Bug_id": 26,
+    "Summary": "Loggin Page. The button 'Sigh in' not responding after clicking on it",
+    "STR": {
+        "step_1": "Open the login page",
+        "step_2": "Enter username and password",
+        "step_3": "Click on the button 'Sigh in'"
+    },
+    "Result": "The button 'Sigh in' not responding after clicking on it",
+    "Expected_result": "After clicking the button, the user page opens",
+    "Severity": "Major",
+    "Priority": "High",
+    "Enviroment": {
+        "OS": "Windows 10 Pro.64-разрядная операционная система, процессор x64",
+        "Browser": "Google Chrome v.98.0.4758.102 (Розробка) (64-розрядна версія)"
+    }
 }
 
