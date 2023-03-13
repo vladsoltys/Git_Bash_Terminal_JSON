@@ -13,16 +13,17 @@
 7) Создать 3 папки 
 > mkdir l_1 l_2 l_3
 8) Вывести список содержимого папки 
-> ls ,(ls -la)
-9) + Открыть любой txt файл 
+> ls    ***OR***    ls -la
+9) Открыть любой txt файл 
 > vim note1.txt
-10) + написать туда что-нибудь, любой текст. 
-> i(insert) I am studying git bush right now
-11) + сохранить и выйти. 
-> esc :wq
+10) Написать туда что-нибудь, любой текст. 
+> - ***i(insert)*** 
+> - I am studying git bush right now
+11) Сохранить и выйти. 
+> - esc 
+> - :wq
 12) Выйти из папки на уровень выше 
 > cd ..
-—
 13) переместить любые 2 файла, которые вы создали, в любую другую папку. 
 > mv p_1/{note2.txt,object2.json} p_1/l_3/
 14) скопировать любые 2 файла, которые вы создали, в любую другую папку. 
@@ -73,7 +74,7 @@ touch n_note1.txt n_note2.txt n_note3.txt n_object1.json n_object2.
 mkdir nl_1 nl_2 nl_3
 ls -la
 mv n_note2.txt n_object2.json nl_3
-esc :wq
 ```
+> - esc :wq
 > - ./my_script.txt
 
