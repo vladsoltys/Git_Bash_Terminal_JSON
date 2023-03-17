@@ -1,7 +1,8 @@
 **Studied on the course:**
+
+> Creating, moving, editing and viewing of files, writing a script 
 ```
-Committing a file, pushing a file to an external repository, creating and modifying JSON, XML, 
-TXT files on a local repository, on an external repository, synchronizing local and external repository 
-( git status , git add , git commit , git push , git pull )
+(pwd, mkdir, cd, touch, ls -la, vim, mv, cp, find, tail, head, less, (#!/bin/bash))
 ```
 
+**Check Terminal_HW_1 and Terminal_HW_2**
